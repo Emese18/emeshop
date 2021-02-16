@@ -1,9 +1,10 @@
+@import url(styles.css);
+
 *
 {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: #1c1c1c;
     font-family: Brutal,sans-serif;
 }
 
