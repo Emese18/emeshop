@@ -1,0 +1,82 @@
+@import url(banner.css);
+
+*
+{
+  font-family: Brutal,sans-serif;
+}
+
+body 
+{
+  padding-bottom: 20px;
+  background-color: black;
+}
+
+nav
+{
+    background-color: #1c1c1c;
+}
+
+.product img
+{
+  width: 180px;
+  margin-top: 5%;
+}
+
+.info
+{
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+.card
+{
+  background-color: #1c1c1c;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 5%;
+}
+
+.text
+{
+  color: white;
+  margin-top: 30px;
+  margin-bottom: 30px;;
+  text-align: center;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.btn-compra
+{
+  width: 175px;
+  height: 30px;
+  font-size: 15px;
+  border-radius: 10px;
+  border: black;
+}
+
+.btn-compra:hover
+{
+  filter:brightness(0.4);
+}
+
+footer
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}

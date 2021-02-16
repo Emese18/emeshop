@@ -1,0 +1,61 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #1c1c1c;
+    font-family: Brutal,sans-serif;
+}
+
+img
+{
+    border-radius: 10px;
+}
+
+h1
+{
+    font-size: 25px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.form-control
+{
+    background-color: black;
+    color: white;
+    padding: 10px 10px;
+
+}
+
+.form-control:focus
+{
+    background-color: black;
+    outline: none;
+    color: white;
+}
+
+.btn-1
+{
+    background: white;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    border-color: black;
+}
+
+small
+{
+    color: white;
+}
+
+a
+{
+    color: white;
+}
+
+p
+{
+    font-size: 25px;
+    color: white;
+}
