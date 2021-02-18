@@ -1,0 +1,47 @@
+*
+{
+  font-size: 15px;
+  font-family: Brutal,sans-serif;
+  background-color: #1c1c1c;
+}
+
+.navbar
+{
+  background-color: black;
+}
+
+.navbar a
+{
+  color: white;
+}
+
+#sidebarMenu
+{
+  background-color: black;
+}
+
+
+.sidebar .nav-link {
+  color: white;
+}
+
+.sidebar .nav-link.active {
+  color: #007bff;
+}
+
+.navbar-brand {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: black;
+}
+
+.navbar .navbar-toggler {
+  top: 20px;
+  left: 125px;
+}
+
+@media (max-width: 767.98px) {
+  .sidebar {
+    top: 5rem;
+  }
+}
